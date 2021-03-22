@@ -1,0 +1,10 @@
+db:
+  url: mysql
+  driver: com.mysql.jdbc.Driver
+  debug: true
+  max-pool-size: 6
+  ip: 45.141.57.195
+  port: 3306
+  user: user
+  password: Server@2021
+  database: faction

@@ -1,0 +1,10 @@
+name: faction-collectors
+version: ${project.version}
+main: me.zheroandre.factioncollectors.FactionCollectorsPlugin
+depend: [ Vault, HeadDatabase, Factions ]
+authors: [ zHeroandre ]
+commands:
+  collector:
+    description: OPEN FACTION COLLECTOR GUI
+    aliases:
+      - collectors
